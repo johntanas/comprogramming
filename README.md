@@ -1,1 +1,1 @@
-my solutions for some algos
+my kattis solutions
